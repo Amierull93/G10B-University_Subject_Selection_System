@@ -4,6 +4,7 @@ Wan Amierull Aiman Bin Ishak (111111419)
 
 
 
+
 INTRODUCTION
 
 Multimedia University Online Subject Registration System is the best way for students to register their subject for the upcoming semester. It is easier for them to register at home or everywhere. The online registration system is widely used by other universities including Multimedia University.  To register subject online can save time and energy we do not need an appointment with the lecturers or need a signature from them and we do not need a single paper to use. The Online Registration System allows students, through Internet, to register, drop, or add courses within the registration period and the Advisor to do advising for the students by approving/rejecting requested courses by the student or recommending some others. 
