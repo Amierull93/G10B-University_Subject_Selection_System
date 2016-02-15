@@ -1,0 +1,74 @@
+body
+{
+	background-image : url("./images/IMG_0148 copy.jpg");
+	background-size : 100% 100%;
+	color:red;
+	
+}
+.rightHome
+{
+	float : right;
+	margin-right : 200px;
+	margin-top: 100px;
+}
+.rightHome1
+{
+	float : right;
+	margin-top:1px;
+	margin-right:55px;
+}
+#submit
+{
+    background: blue;
+    border: 1px solid #5C9C36;
+    color: #FFF;
+	width:100px;
+	height:50px;
+    display: inline-block;
+    font: bold 14px/1.1em sans-serif;
+    outline: none; 
+    text-decoration: none;
+	margin-right:0px;
+
+}
+#container
+{
+	height:310px;
+	width:320px;				
+	box-shadow: 0 0 15px black;				
+	border-radius : 20px;		
+}
+.margin1
+{
+	margin-left:45px;
+	margin-top:0px;
+	color:black;
+}
+.margin2
+{
+	margin-left:45px;
+	margin-top:0px;
+}
+.radio1
+{
+	color:black;
+	font-size:12pt;
+	margin-top:3px;
+	margin-bottom:3px;
+	margin-left:45px;
+}
+a:hover.top 
+{ 	color:red; 
+	font-family:Arial Narrow;
+	text-decoration:overline; 
+}
+a:link.top 
+{
+	text-decoration:none; 
+}
+.pLogin
+{
+	color:red;
+	font-size:26pt;
+	margin-left:45px;
+}
